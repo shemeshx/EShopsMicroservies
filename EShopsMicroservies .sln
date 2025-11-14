@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingBlocks", "src\BuildingBlocks\BuildingBlocks\BuildingBlocks.csproj", "{5ADA64A4-3CE8-4D9A-B9F9-DF325F5121E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalog.API", "src\Services\Catalog\Catalog.API\Catalog.API.csproj", "{458AB165-325B-4069-B47B-C806BF94CD6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ADA64A4-3CE8-4D9A-B9F9-DF325F5121E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ADA64A4-3CE8-4D9A-B9F9-DF325F5121E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ADA64A4-3CE8-4D9A-B9F9-DF325F5121E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ADA64A4-3CE8-4D9A-B9F9-DF325F5121E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{458AB165-325B-4069-B47B-C806BF94CD6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{458AB165-325B-4069-B47B-C806BF94CD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{458AB165-325B-4069-B47B-C806BF94CD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{458AB165-325B-4069-B47B-C806BF94CD6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
